@@ -1,0 +1,31 @@
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\bin\Debug\SEW_Aaron_Pressler_Memory.exe.config
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\bin\Debug\SEW_Aaron_Pressler_Memory.exe
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\bin\Debug\SEW_Aaron_Pressler_Memory.pdb
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csprojAssemblyReference.cache
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.Form1.resources
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.Properties.Resources.resources
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csproj.GenerateResource.cache
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csproj.CoreCompileInputs.cache
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.exe
+C:\Users\PresslerA\source\repos\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.pdb
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\bin\Debug\SEW_Aaron_Pressler_Memory.exe.config
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\bin\Debug\SEW_Aaron_Pressler_Memory.exe
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\bin\Debug\SEW_Aaron_Pressler_Memory.pdb
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.Form1.resources
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.Properties.Resources.resources
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csproj.GenerateResource.cache
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csproj.CoreCompileInputs.cache
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.exe
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.pdb
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csproj.AssemblyReference.cache
+E:\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csprojAssemblyReference.cache
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\bin\Debug\SEW_Aaron_Pressler_Memory.exe.config
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\bin\Debug\SEW_Aaron_Pressler_Memory.exe
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\bin\Debug\SEW_Aaron_Pressler_Memory.pdb
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.Properties.Resources.resources
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csproj.GenerateResource.cache
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csproj.CoreCompileInputs.cache
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.exe
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.pdb
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.Form2.resources
+E:\SEW_Aaron_Pressler_Memory (2)\SEW_Aaron_Pressler_Memory\SEW_Aaron_Pressler_Memory\obj\Debug\SEW_Aaron_Pressler_Memory.csproj.AssemblyReference.cache
